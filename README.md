@@ -19,7 +19,7 @@ The following **required** functionality is complete:
 
 ![](codepath-prework-ios-img.gif)
 
-GIF created with [LiceCap]:
+GIF created with [LiceCap]
 
 ## IOS intro Questions
 
