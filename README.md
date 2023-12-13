@@ -15,7 +15,11 @@ The following **required** functionality is complete:
 * [x] User can run application showing a screen with a button and at least a couple of labels.
 * [x] The screen has a background color that can changes when the button is tapped.
 
-GIF created with [LiceCap]
+## Walkthrough of App Display
+
+![](codepath-prework-ios-img.gif)
+
+GIF created with [LiceCap]:
 
 ## IOS intro Questions
 
