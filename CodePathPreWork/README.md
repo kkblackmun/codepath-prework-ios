@@ -1,9 +1,8 @@
 App BrainStorming
 
 1. TikTok
-    a. For You Page
-   
-    b. Saved collections feature
+   a. For You Page
+   b. Saved collections feature
 
 3. Pinterest
     a. sliding/saving image as a pin feature
